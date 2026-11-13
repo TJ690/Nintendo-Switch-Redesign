@@ -1,4 +1,4 @@
-#Nintendo Switch Redesign
+# Nintendo Switch Redesign
 
 A group redesign of the Nintendo Switch software and hardware, created for a Human Computer Interaction class
 
