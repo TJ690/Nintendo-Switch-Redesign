@@ -2,7 +2,7 @@ Nintendo Switch Redesign
 
 A group redesign of the Nintendo Switch software and hardware, created for a Human Computer Interaction class
 
-Original Nintendo Switch home screen (assets/Nintendo Switch Redesign snippet.png)
+![Original Nintendo Switch home screen](assets/NintendoSwitchRedesignsnippet.png)
 Redesigned Home Screen
 
 Overview
@@ -39,13 +39,6 @@ FINDING 4: Nintendo Eshop navigation was hard to follow as some key terms wouldn
 FINDING 5: Search options had to be specific in order to find results as with the news channel.
 FINDING 6: SOme users expressed that adding lighting to the controls would better help with controller use as well.
 
-The Redesign
-
-![Original and redesigned screen](assets/before-after.png)
-
-Left is the original and right is the redesign. EXPLAIN THE MOST IMPORTANT CHANGE AND WHY YOU MADE IT
-
-The full set of UI artboards is in the artboards folder
 
 Results
 Our research led us to redesign most of the system around what participants told us. Users wanted a bigger controller to help with quick movements and navigation, so we enlarged the controllers in our hardware redesign. They asked for customization options to give their menu page more personality, so we added ways to personalize it. They found the kickstand and memory card locations hard to find, so we made them easier to locate. The Nintendo eShop was hard to follow because some key terms did not show up for some users, and search results required very specific terms, as with the news channel, so we redesigned the navigation and search to be easier to use. Some users also suggested lighting on the controls to make the controller easier to use, which we added to our design.
@@ -64,6 +57,6 @@ Working through each phase taught me the value of building on evidence. Our inte
 
 If I did this project again, I would test with more participants, include more wider age group of users, or run a second round of testing on the final prototype. This project made me more interested in designing technology that is easy and comfortable for everyone to use. Even though this project was created in 2024 many of the design aspects in our prototypes, evaluations made by our participants, and other concepts were reflected in the design choices made by the Nintendo Switch 2 which was released in 2025. This showed me that testing with real users can uncover the same problems that professional design teams find.
 
-## Disclaimer
+ Disclaimer
 
 This is an independent class project and is not affiliated with Nintendo. Nintendo Switch and related trademarks belong to Nintendo
