@@ -2,7 +2,9 @@ Nintendo Switch Redesign
 
 A group redesign of the Nintendo Switch software and hardware, created for a Human Computer Interaction class
 
-![Before and after of the redesigned interface](assets/hero.png)
+Original Nintendo Switch home screen (assets/Nintendo Switch Redesign snippet.png)
+Redesigned Home Screen
+
 Overview
 
 Course: Human Computer Interaction at the University of Michigan-Flint
