@@ -2,7 +2,7 @@ Nintendo Switch Redesign
 
 A group redesign of the Nintendo Switch software and hardware, created for a Human Computer Interaction class
 
-![Original Nintendo Switch home screen](assets/NintendoSwitchRedesignsnippet.png)
+![Original Nintendo Switch home screen](assets/Nintendo-Switch-Redesign-snippet.png)
 Redesigned Home Screen
 
 Overview
