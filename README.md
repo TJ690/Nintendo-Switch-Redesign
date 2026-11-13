@@ -2,9 +2,9 @@
 
 A group redesign of the Nintendo Switch software and hardware, created for a Human Computer Interaction class
 
-**# Original Home Screen**
+# Original Home Screen
 ![Original home screen](assets/Original-Switch.jpg)
-**# Redesigned Home Screen**
+# Redesigned Home Screen
 ![Original Nintendo Switch home screen](assets/Nintendo-Switch-Redesign-snippet.png)
 Overview
 
